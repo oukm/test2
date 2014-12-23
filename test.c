@@ -2,7 +2,8 @@
 
 int main(int argc, char *argv[])
 {
-dev dddddddddddddddddddd
+	bug!!! asuka!
+}
 
 
 

@@ -2,10 +2,12 @@
 
 int main(int argc, char *argv[])
 {
-	bug2  
-	suki asamiyuma !
-	xxxxxxxxxxxxxxxxx
-	gal
+	bug3
+
+	
+	watasi wa kimi no koto ga suki de su .
+
+
 
 }
 

@@ -2,10 +2,10 @@
 
 int main(int argc, char *argv[])
 {
-	bug2  
-	suki asamiyuma !
-	xxxxxxxxxxxxxxxxx
-	gal
+	master!
+	
+	
+	su ki a su ka!
 
 }
 

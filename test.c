@@ -2,7 +2,8 @@
 
 int main(int argc, char *argv[])
 {
-	bug!!! asuka!
+	master
+	suki asuka!
 }
 
 

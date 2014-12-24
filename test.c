@@ -5,7 +5,8 @@ int main(int argc, char *argv[])
 	master!
 	
 	
-	su ki a su ka!
+	xxxxxxxxxxxxx
+	yyyyyyyyyyyyyy
 
 }
 

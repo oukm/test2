@@ -2,8 +2,10 @@
 
 int main(int argc, char *argv[])
 {
-	dev dddddddddddddddddddd
-	aoisora.
+	dev 
+
+10:17 2014-12-25
+	ddddddddddddddddddddddddddddddddddd
 }
 
 

@@ -2,10 +2,10 @@
 
 int main(int argc, char *argv[])
 {
-	dev 
+	gittest2 dev 
 
-10:17 2014-12-25
-	ddddddddddddddddddddddddddddddddddd
+
+	asuka.
 }
 
 
